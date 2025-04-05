@@ -1,0 +1,1 @@
+# Simple-RNN-Sentiment-Analysis-of-Movies
